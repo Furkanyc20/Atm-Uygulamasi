@@ -63,7 +63,7 @@ int main() {
 
 			break;
 		case 3:
-			printf("Bakiye:%f\n", bakiye);
+			printf("Bakiye:%.2f\n", bakiye);
 			break;
 		case 4: break;
 		default:
